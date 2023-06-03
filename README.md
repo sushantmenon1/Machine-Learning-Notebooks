@@ -34,3 +34,13 @@ pip install scipy
 pip install seaborn
 pip install scikit-learn
 ```
+
+## Usage
+1. Clone the repository to your local machine.
+2. Open the project in your preferred IDE or text editor.
+3. Ensure that the required libraries are installed (see the Installation section).
+4. Run the code files to explore the ML models, NLP techniques, and data analysis.
+5. Experiment with different datasets, algorithms, and parameters to further enhance the models.
+
+## Acknowledgements
+I would like to express my gratitude to my mentors and professors who provided guidance and support throughout this project. Their knowledge and expertise were invaluable in developing the ML models and applying NLP techniques.
