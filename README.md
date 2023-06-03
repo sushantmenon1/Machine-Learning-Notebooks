@@ -1,4 +1,4 @@
-# Project Title: Machine Learning Models and NLP Techniques
+# Machine Learning Models and NLP Techniques
 
 ## Overview
 In this project, I have developed various machine learning (ML) models during my undergraduate studies. I applied natural language processing (NLP) techniques, optimized performance, and achieved high accuracy rates. Additionally, I explored diverse datasets to enhance my understanding of different domains. Throughout the project, I utilized popular libraries such as NLTK, Pandas, NumPy, SciPy, Seaborn, and Scikit-learn. Furthermore, the integration of deep learning techniques significantly improved the precision of the models.
